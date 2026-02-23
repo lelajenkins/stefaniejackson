@@ -1,0 +1,42 @@
+:root {
+	--light-color: #fdfdfd;
+	--dark-color: rgb(5, 5, 5);
+	--main-font-size: 24px;
+	--column-width: 750px;
+}
+
+body {
+    background-color: var(--light-color);
+    color: var(--dark-color);
+}
+
+a {
+    color: var(--dark-color);
+}
+
+@media (prefers-color-scheme: light) {
+	
+}
+
+/* dark theme */
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background: var(--dark-color);
+		color: var(--light-color)
+	}
+
+	a {
+		color: var(--light-color)
+	}
+
+	header {
+        filter: invert(100%);
+    }
+}
+
+@media (min-width: 1200px) {
+    body {
+        background-color: var(--dark-color);
+    }
+}
