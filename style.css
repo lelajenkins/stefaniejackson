@@ -1,27 +1,72 @@
+/* global */
 :root {
 	--light-color: #fdfdfd;
 	--dark-color: rgb(5, 5, 5);
 	--main-font-size: 24px;
-	--column-width: 750px;
-}
-
-body {
     background-color: var(--light-color);
     color: var(--dark-color);
 }
 
+/* container layout */
+body {
+    /* background-color: var(--light-color);
+    color: var(--dark-color); */
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    max-width: 1200px;
+}
+
+header img {
+    display: block;
+    margin: 48px auto;
+}
+
+main {
+    width: 100%;
+    max-width: 1200px;
+}
+
+main ul {
+    width: inherit;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+}
+
+picture img {
+    --padding-amt: 16px;
+    width: calc(100% - var(--padding-amt) * 2);
+    padding: var(--padding-amt);
+}
+
+ul li p {
+    margin: 0 auto;
+    text-align: center;
+    font-size: var(--main-font-size);
+}
+
+@media (min-width: 1200px) {
+    body {
+        background-color: var(--dark-color);
+    }
+}
+
+/* typography */
 a {
     color: var(--dark-color);
 }
 
+/* light theme adjustments */
 @media (prefers-color-scheme: light) {
 	
 }
 
-/* dark theme */
-
+/* dark theme adjustments */
 @media (prefers-color-scheme: dark) {
-	body {
+	:root {
 		background: var(--dark-color);
 		color: var(--light-color)
 	}
@@ -32,11 +77,5 @@ a {
 
 	header {
         filter: invert(100%);
-    }
-}
-
-@media (min-width: 1200px) {
-    body {
-        background-color: var(--dark-color);
     }
 }
