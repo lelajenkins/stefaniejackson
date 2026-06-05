@@ -21,7 +21,8 @@ header {
 
 header img {
     display: block;
-    margin: 48px auto;
+    margin: 48px auto 32px auto;
+    max-width: 80vw;
 }
 
 main {
@@ -46,6 +47,10 @@ ul li p {
     margin: 0 auto;
     text-align: center;
     font-size: var(--main-font-size);
+}
+
+.marquee-navigation {
+    padding: 0 2em;
 }
 
 @media (min-width: 1200px) {
