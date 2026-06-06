@@ -26,7 +26,7 @@
   {
     "sha-1": "f78e92d85307745ee3a1ecccc929c242164fed7f",
     "title": "",
-    "tags": [],
+    "tags": ["orpheus soul brother"],
     "source image": "img/original/Love's in Need of Love Today.jpg",
     "1200px": "img/1200px/Love's in Need of Love Today_1200px.jpg",
     "800px": "img/800px/Love's in Need of Love Today_800px.jpg"
@@ -58,7 +58,7 @@
   {
     "sha-1": "b2b1fef3541a708d9acf6a2889df0b8aec4153cb",
     "title": "",
-    "tags": [],
+    "tags": ["orpheus soul brother"],
     "source image": "img/original/Joy Inside My Tears.jpg",
     "1200px": "img/1200px/Joy Inside My Tears_1200px.jpg",
     "800px": "img/800px/Joy Inside My Tears_800px.jpg"
@@ -73,8 +73,8 @@
   },
   {
     "sha-1": "cbe4fe6551d6a5ce4f907b869ee095a4b6bbe942",
-    "title": "",
-    "tags": [],
+    "title": "Mercy, Mercy Me",
+    "tags": ["what's going on"],
     "source image": "img/original/Mercy, Mercy Me.jpg",
     "1200px": "img/1200px/Mercy, Mercy Me_1200px.jpg",
     "800px": "img/800px/Mercy, Mercy Me_800px.jpg"
@@ -113,8 +113,8 @@
   },
   {
     "sha-1": "31f1295e273df1ecaed6de7fee1eedc5c1ba3531",
-    "title": "",
-    "tags": [],
+    "title": "Summer Soft",
+    "tags": ["orpheus soul brother"],
     "source image": "img/original/Summer Soft.jpg",
     "1200px": "img/1200px/Summer Soft_1200px.jpg",
     "800px": "img/800px/Summer Soft_800px.jpg"
@@ -137,16 +137,16 @@
   },
   {
     "sha-1": "cd2ff3f47a33af6431b9b5ebbcccdb3b012879a0",
-    "title": "",
-    "tags": [],
+    "title": "What's Going On",
+    "tags": ["what's going on"],
     "source image": "img/original/What's Going On.jpg",
     "1200px": "img/1200px/What's Going On_1200px.jpg",
     "800px": "img/800px/What's Going On_800px.jpg"
   },
   {
     "sha-1": "95472bd52e751f15a48c41dd1b9bf1e2c9c35718",
-    "title": "",
-    "tags": [],
+    "title": "Chocolat Plantation Sapelo Island",
+    "tags": ["only skin deep"],
     "source image": "img/original/Chocolat Plantation Sapelo Island Only Skin Deep Series.jpg",
     "1200px": "img/1200px/Chocolat Plantation Sapelo Island Only Skin Deep Series_1200px.jpg",
     "800px": "img/800px/Chocolat Plantation Sapelo Island Only Skin Deep Series_800px.jpg"
@@ -169,16 +169,16 @@
   },
   {
     "sha-1": "2b1673e8d3fd24d65879f0704d42fb9781f5114f",
-    "title": "",
-    "tags": [],
+    "title": "Quadroon Ball",
+    "tags": ["only skin deep"],
     "source image": "img/original/Quadroon Ball.jpg",
     "1200px": "img/1200px/Quadroon Ball_1200px.jpg",
     "800px": "img/800px/Quadroon Ball_800px.jpg"
   },
   {
     "sha-1": "a21e70da0eea3520145587d7ca8fbe050fb3a6d4",
-    "title": "",
-    "tags": [],
+    "title": "Save the Children",
+    "tags": ["what's going on"],
     "source image": "img/original/Save the Children.jpg",
     "1200px": "img/1200px/Save the Children_1200px.jpg",
     "800px": "img/800px/Save the Children_800px.jpg"
@@ -210,7 +210,7 @@
   {
     "sha-1": "3ddced6f1ccde797c596c96ce35aa13b110f37eb",
     "title": "",
-    "tags": [],
+    "tags": ["orpheus soul brother"],
     "source image": "img/original/Ordinary Pain.jpg",
     "1200px": "img/1200px/Ordinary Pain_1200px.jpg",
     "800px": "img/800px/Ordinary Pain_800px.jpg"
@@ -250,7 +250,7 @@
   {
     "sha-1": "528cffb53133e122ca48eb475e08007152189258",
     "title": "",
-    "tags": [],
+    "tags": ["orpheus soul brother"],
     "source image": "img/original/Past Time Paradise.jpg",
     "1200px": "img/1200px/Past Time Paradise_1200px.jpg",
     "800px": "img/800px/Past Time Paradise_800px.jpg"
@@ -266,7 +266,7 @@
   {
     "sha-1": "1fea64df91be8b41262ba2e8c4ad958087e86f12",
     "title": "",
-    "tags": [],
+    "tags": ["orpheus soul brother"],
     "source image": "img/original/Have a Talk with God.jpg",
     "1200px": "img/1200px/Have a Talk with God_1200px.jpg",
     "800px": "img/800px/Have a Talk with God_800px.jpg"
@@ -282,7 +282,7 @@
   {
     "sha-1": "412b787caab80565089dd666cce7cedd3c635096",
     "title": "",
-    "tags": [],
+    "tags": ["orpheus soul brother"],
     "source image": "img/original/If it's Magic.jpg",
     "1200px": "img/1200px/If it's Magic_1200px.jpg",
     "800px": "img/800px/If it's Magic_800px.jpg"
@@ -313,8 +313,8 @@
   },
   {
     "sha-1": "bae4d1efd9b60b39faeeb894addf6efe8f1afd04",
-    "title": "",
-    "tags": [],
+    "title": "Love for Sale",
+    "tags": ["only skin deep"],
     "source image": "img/original/Love for Sale.jpg",
     "1200px": "img/1200px/Love for Sale_1200px.jpg",
     "800px": "img/800px/Love for Sale_800px.jpg"
@@ -329,8 +329,8 @@
   },
   {
     "sha-1": "74f6df91e3c599952f19a9254a1f2b0cc3fea826",
-    "title": "",
-    "tags": [],
+    "title": "Tarbaby",
+    "tags": ["only skin deep"],
     "source image": "img/original/Tarbaby.jpg",
     "1200px": "img/1200px/Tarbaby_1200px.jpg",
     "800px": "img/800px/Tarbaby_800px.jpg"
@@ -394,7 +394,7 @@
   {
     "sha-1": "13e44291cfc53bbe49368eed4808c73b0b29d9df",
     "title": "",
-    "tags": [],
+    "tags": ["orpheus soul brother"],
     "source image": "img/original/Village Ghetto Land.jpg",
     "1200px": "img/1200px/Village Ghetto Land_1200px.jpg",
     "800px": "img/800px/Village Ghetto Land_800px.jpg"
@@ -409,8 +409,8 @@
   },
   {
     "sha-1": "e8d500de3b58dbd6f8c2ac3c37a59ea37876ac94",
-    "title": "",
-    "tags": [],
+    "title": "Saturn, Belle Isle",
+    "tags": ["orpheus soul brother"],
     "source image": "img/original/Saturn, Belle Isle.jpg",
     "1200px": "img/1200px/Saturn, Belle Isle_1200px.jpg",
     "800px": "img/800px/Saturn, Belle Isle_800px.jpg"
@@ -425,8 +425,8 @@
   },
   {
     "sha-1": "03b2e001a67ac1639535bb2d6f89aed1726c1ee3",
-    "title": "",
-    "tags": [],
+    "title": "Medicine Show",
+    "tags": ["only skin deep"],
     "source image": "img/original/Medicine Show.jpg",
     "1200px": "img/1200px/Medicine Show_1200px.jpg",
     "800px": "img/800px/Medicine Show_800px.jpg"

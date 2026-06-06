@@ -17,6 +17,7 @@ body {
 header {
     width: 100%;
     max-width: 1200px;
+    margin: 0 auto;
 }
 
 header img {
@@ -28,6 +29,7 @@ header img {
 main {
     width: 100%;
     max-width: 1200px;
+    margin: 0 auto;
 }
 
 main ul {
@@ -62,12 +64,6 @@ article {
 article p {
     font-size: var(--secondary-font-size);
     margin: 0 0 var(--padding-amt) 0;
-}
-
-@media (min-width: 1200px) {
-    body {
-        background-color: var(--dark-color);
-    }
 }
 
 /* typography */
