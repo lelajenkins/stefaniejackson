@@ -65,9 +65,14 @@ ul li p {
     font-size: var(--main-font-size);
 }
 
+#series {
+    margin-bottom: var(--spacing-amt);
+}
+
 #portrait img {
     display: block;
     margin: 0 auto;
+    width: 80vw;
     max-width: var(--column-width);
 }
 
@@ -79,6 +84,15 @@ ul li p {
     display: flex;
     justify-content: space-evenly;
     gap: var(--spacing-amt);
+}
+
+#email {
+    display: flex;
+}
+
+#email p {
+    margin: 0 auto;
+    font-size: var(--main-font-size);
 }
 
 article, video {
@@ -156,6 +170,10 @@ a:hover {
   
     nav li {
         list-style: none;
+    }
+
+    #series {
+        margin: 0;
     }
     
     .gallery {
