@@ -2,7 +2,7 @@
 :root {
 	--light-color: #fdfdfd;
 	--dark-color: rgb(5, 5, 5);
-	--padding-amt: 16px;
+	--spacing-amt: 16px;
     background-color: var(--light-color);
     color: var(--dark-color);
 }
@@ -40,8 +40,8 @@ ul {
 }
 
 picture img {
-    width: calc(100% - var(--padding-amt) * 2);
-    padding: var(--padding-amt);
+    width: calc(100% - var(--spacing-amt) * 2);
+    padding: 0 var(--spacing-amt) var(--spacing-amt) var(--spacing-amt);
 }
 
 ul li p {
@@ -51,7 +51,7 @@ ul li p {
 }
 
 ul#series {
-    padding-bottom: var(--padding-amt);
+    padding-bottom: var(--spacing-amt);
 }
 
 article {
@@ -63,7 +63,25 @@ article {
 
 article p {
     font-size: var(--secondary-font-size);
-    margin: 0 0 var(--padding-amt) 0;
+    margin: 0 0 var(--spacing-amt) 0;
+}
+
+/* wider layout */
+
+@media (min-width: 1200px) {
+    .gallery {
+    column-count: 2;
+    column-gap: 1.5rem;
+  }
+  
+  .gallery img {
+    width: 100%;
+    height: auto;
+    margin-bottom: var(--spacing-amt);
+    padding: 0;
+    display: block;
+  }
+
 }
 
 /* typography */
