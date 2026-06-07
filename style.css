@@ -28,7 +28,7 @@ header img {
 }
 
 nav {
-    margin-bottom: var(--spacing-amt);
+    margin-bottom: calc(var(--spacing-amt)*2);
 }
 
 nav ul {
