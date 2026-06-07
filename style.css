@@ -75,10 +75,11 @@ ul#series {
     max-width: var(--column-width);
 }
 
-article {
+article, video {
     width: 80vw;
     max-width: var(--column-width); /* this is based on the visible width of the nav when viewport ≥ 1200px */
     margin: 0 auto;
+    display: block;
 }
 
 article p {
