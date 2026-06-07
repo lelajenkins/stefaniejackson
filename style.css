@@ -3,6 +3,7 @@
 	--light-color: #fdfdfd;
 	--dark-color: rgb(5, 5, 5);
 	--spacing-amt: 16px;
+    --column-width: 910px;
     background-color: var(--light-color);
     color: var(--dark-color);
 }
@@ -43,7 +44,7 @@ nav ul li {
 main {
     width: 100%;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0 auto calc(var(--spacing-amt)*3) auto;
 }
 
 ul {
@@ -68,10 +69,15 @@ ul#series {
     padding-bottom: var(--spacing-amt);
 }
 
+#portrait img {
+    display: block;
+    margin: 0 auto;
+    max-width: var(--column-width);
+}
+
 article {
-    padding: 0 32px;
-    width: 85vw; /* a little wider than the header image since the text usually doesn't fill up the whole line */
-    max-width: 800px;
+    width: 80vw;
+    max-width: var(--column-width); /* this is based on the visible width of the nav when viewport ≥ 1200px */
     margin: 0 auto;
 }
 
@@ -132,7 +138,7 @@ a:hover {
 
     nav {
         display: flex;
-        gap: 1rem;
+        gap: var(--spacing-amt);
         justify-content: center;
     }
   
@@ -141,6 +147,11 @@ a:hover {
     }
   
     nav li {
+        /* flex: 1; */
+        /* white-space: nowrap; */
+        /* display: flex; */
+        /* align-items: center; */
+        /* justify-content: center; */
         list-style: none;
     }
     
