@@ -150,6 +150,18 @@ a:hover {
     }
 }
 
+/* smallest layout */
+
+@media (max-width: 800px) {
+    :root {
+        --main-font-size: 20px;
+    }
+
+    nav {
+        max-width: 90vw;
+    }
+}
+
 /* wider layout */
 
 @media (min-width: 1200px) {

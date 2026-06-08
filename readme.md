@@ -2,7 +2,6 @@
 
 TODO:
 - [ ] adjust masking on diptychs
-- [ ] check og image loading
 
 This website showcases the paintings of Stefanie Jackson.
 
